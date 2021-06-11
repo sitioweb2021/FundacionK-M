@@ -1,0 +1,62 @@
+body {
+    background: #ccc;
+}
+header {
+    width: 1000px;
+    height: 200px;
+    background:rgb(255, 255, 255);
+    margin:0 auto;
+}
+#frase{
+    width: 1000px;
+    height: 30px;
+    background:rgb(124, 212, 124);
+    margin:0 auto;
+}   
+#donacion{
+    width: 1000px;
+    height: 70px;
+    background:rgb(255, 255, 255);
+    margin:0 auto;
+ 
+} 
+#img0 {
+    vertical-align: middle;
+ }
+
+ #fotografias{
+    width: 1000px;
+    height: 433px;
+    background:rgb(111, 144, 163);
+    margin:0 auto;
+}
+#img1 {
+    margin: 10px;
+ }
+ #img2 {
+    margin: 10px;
+ }
+ #img3 {
+    margin: 10px;
+ }
+ #img4 {
+    margin: 10px;
+ }
+ #img5 {
+    vertical-align: middle;
+ }
+ #img6 {
+    margin: auto;
+    display: block;
+ }
+ 
+ 
+
+footer{
+    width: 1000px;
+    height: 50px;
+    background:rgb(190, 196, 105);
+    margin:0 auto;
+    font-size: x-small;
+    font-style: oblique;
+}
